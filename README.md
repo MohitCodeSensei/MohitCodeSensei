@@ -1,4 +1,7 @@
 # 💫 About Me:
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mohit%20Mahajan&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Banner" />
+</p>
 🎓 **Computer Engineering Student** at **Pune University**<br>
 🚀 **Aspiring Machine Learning Engineer** with a passion for AI<br>
 🔭 I’m currently working on building **Intelligent Systems** and **Full Stack Apps**<br>
