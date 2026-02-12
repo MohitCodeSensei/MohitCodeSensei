@@ -17,7 +17,7 @@
 
 ---
 <p align="center">
-  <img src="download (1).jpg" alt="git hub banner" width="800">
+  <img src="download (1).jpg" alt="git hub banner" height="237px"width="736px">
 </p>
 
 ## 💻 Tech Stack:
