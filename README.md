@@ -1,11 +1,11 @@
 # 💫 About Me:
-🎓 **Computer Engineering Student** at **Pune University**
-🚀 **Aspiring Machine Learning Engineer** with a passion for AI
-🔭 I’m currently working on building **Intelligent Systems** and **Full Stack Apps**
-👯 I’m looking to collaborate on **Future AI Technology** & Open Source projects
-🤝 I’m looking for help with connecting with **Like-minded Developers**
-🌱 I’m currently mastering **Machine Learning, Python, and C++ DSA**
-💬 Ask me about **Python, UI/UX designs, and Web Development**
+🎓 **Computer Engineering Student** at **Pune University**<br>
+🚀 **Aspiring Machine Learning Engineer** with a passion for AI<br>
+🔭 I’m currently working on building **Intelligent Systems** and **Full Stack Apps**<br>
+👯 I’m looking to collaborate on **Future AI Technology** & Open Source projects<br>
+🤝 I’m looking for help with connecting with **Like-minded Developers**<br>
+🌱 I’m currently mastering **Machine Learning, Python, and C++ DSA**<br>
+💬 Ask me about **Python, UI/UX designs, and Web Development**<br>
 
 ---
 
