@@ -1,6 +1,6 @@
 # 💫 About Me:
 <p align="center">
-  <img src="Wallpaper PC.jpg" alt="Mohit Mahajan Banner" width="800">
+  <img src="download (2).jpg" alt="Mohit Mahajan Banner" width="100%">
 </p>
 🎓 <h2>**Computer Engineering Student** at **Pune University**</h2><br>
 🚀 **Aspiring Machine Learning Engineer** with a passion for AI<br>
