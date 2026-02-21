@@ -2,13 +2,13 @@
 <p align="center">
   <img src="download (2).jpg" alt="Mohit Mahajan Banner" height="237px"width="736px">
 </p>
-🎓 <h2>**Computer Engineering Student** at **Pune University**</h2><br>
-🚀 **Aspiring Machine Learning Engineer** with a passion for AI<br>
-🔭 I’m currently working on building **Intelligent Systems** and **Full Stack Apps**<br>
-👯 I’m looking to collaborate on **Future AI Technology** & Open Source projects<br>
-🤝 I’m looking for help with connecting with **Like-minded Developers**<br>
+🎓 <h2>Computer Engineering Student at Pune University</h2><br>
+🚀 Aspiring Machine Learning Engineer with a passion for AI<br>
+🔭 I’m currently working on building Intelligent Systems and Full Stack Apps<br>
+👯 I’m looking to collaborate on Future AI Technology & Open Source projects<br>
+🤝 I’m looking for help with connecting with Like-minded Developers<br>
 🌱 I’m currently mastering **Machine Learning, Python, and C++ DSA**<br>
-💬 Ask me about **Python, UI/UX designs, and Web Development**<br>
+💬 Ask me about Python, UI/UX designs, and Web Development<br>
 
 ---
 
